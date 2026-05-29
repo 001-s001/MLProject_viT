@@ -1,0 +1,11 @@
+data/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+kaggle_upload/
+kaggle_dataset_upload/
+kaggle_single_zip_upload/
+kaggle_notebook/
+kernel_tmp/
+*.zip
+last.pt
